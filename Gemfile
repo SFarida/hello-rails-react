@@ -67,3 +67,7 @@ group :test do
 end
 
 gem 'rubocop', '>= 1.0', '< 2.0'
+
+gem 'webpacker', '~> 5.2.1'
+
+gem 'psych', '< 4'
